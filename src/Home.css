@@ -1,0 +1,133 @@
+.btns
+{
+  background-color :Green;
+  border-color: white;
+  border-radius: 0.5rem;
+  color : white;
+  height : 50px;
+  width : 170px;
+}
+.Home5
+{
+  background-image: url(farm.webp);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:100vh;
+  width:100%;
+  
+}
+.Home8
+{
+  background-image: url(farm.webp);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:50vh;
+  width:100%;
+  
+}
+.Home12
+{
+  background-image: url(farm.webp);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:0vh;
+  width:100%;  
+}
+
+.Home1
+{
+  background-image: url(farm.webp);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:80vh;
+  width:100%;
+  
+}
+.Home9
+{
+  background-image: url(farm.webp);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:50vh;
+  width:100%;
+  
+}
+
+.Home3
+{
+  background-image: url(farm.webp);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:100vh;
+  width:100%;
+  
+}
+
+
+.Home0
+{
+  background-image: url(image1.webp);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:150vh;
+  width:120%;
+  
+}
+.Home7
+{
+  background-image: url(center.webp);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:50vh;
+  width:120%;
+  
+}
+
+.Home6
+{
+  background-image: url(co2.webp);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:70vh;
+  width:120%;
+  
+}
+
+.Home10
+{
+  background-image: url(2.gif);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:80vh;
+  width:80%;
+  
+}
+
+.Home44
+{
+  background-color: darkgreen;
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:90vh;
+  width:120%;
+  
+}
+
+.Home12
+{
+  background-color: darkgreen;
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:120vh;
+  width:100%;
+  
+}
+.Home55
+{
+  background-color: grey;
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  height:70vh;
+  width:120%;
+  
+}
